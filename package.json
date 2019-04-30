@@ -1,0 +1,27 @@
+{
+  "name": "time-locked-wallet",
+  "version": "1.0.0",
+  "description": "Please find more details about this project in [this blog post](https://www.toptal.com/ethereum-smart-contract/time-locked-wallet-truffle-tutorial#distinguish-only-choice-engineers).",
+  "main": "truffle.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radek1st/time-locked-wallets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/radek1st/time-locked-wallets/issues"
+  },
+  "homepage": "https://github.com/radek1st/time-locked-wallets#readme"
+}
